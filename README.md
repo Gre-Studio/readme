@@ -1,3 +1,5 @@
+[![Bannière GreGo Gateway](https://image.noelshack.com/fichiers/2026/16/2/1776187906-grestudio.png)]
+
 Who knows what the future of urban mobility looks like?
 
 Gre Studio développe des outils web libres et utiles autour du réseau TAG de Grenoble.  
@@ -10,7 +12,7 @@ Tous nos projets publics sont publiés sous licence **GNU GPLv3**. Vous êtes li
 ### 📫 Contact & Réseaux
 
 - **Discord** → @palmin.e / @antlevrai
-- **Instagram** → [grenoble.go](https://www.instagram.com/grenoble.go/)
+- [**Instagram**](https://www.instagram.com/grenoble.go/)
 
 ---
 

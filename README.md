@@ -1,4 +1,4 @@
-[Bannière GreGo Gateway](https://image.noelshack.com/fichiers/2026/16/2/1776187906-grestudio.png)
+![Bannière GreGo Gateway](https://image.noelshack.com/fichiers/2026/16/2/1776187906-grestudio.png)
 
 Who knows what the future of urban mobility looks like?
 
